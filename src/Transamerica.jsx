@@ -11,6 +11,7 @@ export default class Transamerica extends Component {
         return (
           <div>
           <h1>Transamerica</h1>
+          <p>Transamerica is the best</p>
           </div>
         )
     }

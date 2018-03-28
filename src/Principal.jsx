@@ -11,6 +11,7 @@ export default class Principal extends Component {
         return (
           <div>
           <h1>Principal</h1>
+          <p>principal is so amazing!</p>
           </div>
         )
     }
